@@ -1,7 +1,7 @@
 {
-  "name": "research-agent-template",
+  "name": "chatu-research-agent",
   "version": "1.0.0",
-  "description": "AI-powered research agent using Stagehand + Browserbase for parallel browser automation",
+  "description": "AI-powered research agent using Stagehand + Browserbase for parallel browser automation created by rehan",
   "author": "Browserbase <support@browserbase.com>",
   "license": "MIT",
   "private": true,
